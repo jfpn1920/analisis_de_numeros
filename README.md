@@ -7,7 +7,7 @@ Este proyecto permite analizar una lista de números ingresados por el usuario y
 
 El programa refuerza la comprensión de cómo manipular **listas**, cómo recorrerlas con bucles y cómo aplicar **operaciones matemáticas** para obtener estadísticas básicas de un conjunto de datos. Además, muestra los resultados de manera clara, ordenada y fácil de interpretar.
 
-Este proyecto también ayuda a mejorar la lógica de análisis de datos, la validación de entradas y la presentación de resultados confiables, fomentando el desarrollo de habilidades para procesar información numérica en Python. Además, permite al estudiante comprender cómo estructurar un programa para manejar listas de datos dinámicamente, aplicar comparaciones de manera eficiente y generar estadísticas básicas, habilidades clave para la resolución de problemas y la toma de decisiones basada en datos.
+Este proyecto también ayuda a mejorar la lógica de análisis de datos, la validación de entradas y la presentación de resultados confiables, fomentando el desarrollo de habilidades para procesar información numérica en Python. Además, permite al estudiante comprender cómo estructurar un programa para manejar listas de datos dinámicamente.
 #
 ### 🧑‍💻 Lenguaje de programacion
 - Python
